@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/vedant-pandya-a16129231)
+- [LinkedIn](https://www.linkedin.com/in/vedant-pandya-a16129231a)
 
 Thanks for stopping by! Feel free to explore my repositories and reach out if you'd like to collaborate on something exciting.
 
